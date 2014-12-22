@@ -1,0 +1,16 @@
+{
+	"browser": [
+		"https://github.com/fourq", 
+		"https://bitbucket.org/fourq",
+		"http://facebook.github.io/jest/docs/api.html",
+		"http://facebook.github.io/react/docs/thinking-in-react.html",
+		"https://codeclimate.com/dashboard",
+		"https://codeship.com/projects",
+		"https://github.com/WRidder/react-spa/tree/master/server",
+		"http://jsfiddle.net/kb3gN/8662/",
+		"/Users/rocky/Src/pastoral-acts/index.html"
+	],
+	"app": [
+		"vim /Users/rocky/Src/pastoral-acts/."
+	]
+}
